@@ -26,6 +26,4 @@ The experiment PDFs in the repository root have `Reg no: 241501185` added in the
 - `mini_project/` - synthetic CSV, reproducible Python script, requirements, and original figures
 - `README.md` - this guide
 
-## Academic integrity and attribution
 
-The experiment PDFs are provided as supplied and have only been personalized with a registration header; their instructional content is not claimed as original work. The mini-project report and synthetic dataset are created for this portfolio. Review course rules and verify all requirements with the instructor before submission.
